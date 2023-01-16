@@ -7,7 +7,7 @@ My name is Lenore! I'm a front end web developer. I wake up, drink my Mountain D
 - 
 - 👯 I’m inlove with react (dont tell Javascript I like the better version!)
 - 
-- 📫 Reaching out to me is as simple as sending an email to my outlook. lenore.laufeyson13@outlook.com
+- 📫 Reaching out to me is as simple as sending an email to my outlook. lenore.laufeyson13@gmail.com
 
 - ⚡ Fun fact: I've been developing my coding skills for the last 5 years which means I have more than likely deleted my old git hub because it was too crowded.
 
